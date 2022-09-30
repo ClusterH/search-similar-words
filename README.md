@@ -2,7 +2,7 @@
 
 This component is used to find similar words with various constraints on meaning, spelling, sound, and vocabulary.
 
-# Reference API
+## Reference API
 
     https://www.datamuse.com/api/
 
